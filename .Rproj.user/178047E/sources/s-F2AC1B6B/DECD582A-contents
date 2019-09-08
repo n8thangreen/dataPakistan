@@ -1,0 +1,3 @@
+library(dataPakistan)
+data(package = "dataPakistan")
+system.file("extdata", package = "dataPakistan")
